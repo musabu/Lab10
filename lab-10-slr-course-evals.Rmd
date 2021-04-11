@@ -32,7 +32,7 @@ In addition, six students rated the professors' physical appearance.
 
 # Getting started
 
-Go to the course GitHub organization and locate your homework repo, clone it in RStudio and open the R Markdown document.
+Go to https://github.com/musabu/Lab10.git, clone it in RStudio (cloud/desktop) and open the R Markdown document.
 Knit the document to make sure it compiles without errors.
 
 ## Warm up
